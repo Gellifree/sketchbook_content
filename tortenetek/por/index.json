@@ -1,13 +1,14 @@
 [
     {
-        "type":"post",
-        "title":"Jerome",
-        "slug":"jerome",
-        "summary":"..."
+        "type": "post",
+        "title": "Jerome",
+        "slug": "jerome",
+        "summary": "Rövid leírás ehhez a poszthoz. "
     },
     {
-        "type":"post",
-        "title":"Susanne",
-        "slug":"susanne"
+        "type": "post",
+        "title": "Susanne",
+        "slug": "susanne",
+        "summary": "Rövid leírás ehhez a másik poszthoz. "
     }
 ]
